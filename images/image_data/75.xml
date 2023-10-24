@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>75.jpg</filename>
-	<path>/home/victor/Документы/jupyter_notebooks/tensorflow_workspaces/images/images/75.jpg</path>
+	<path>../images/75.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
